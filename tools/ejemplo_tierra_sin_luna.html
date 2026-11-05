@@ -1,0 +1,37 @@
+<!doctype html><html><body style="margin:0;background:#000">
+<canvas id="c" width="1080" height="1920"></canvas>
+<script>
+const c=document.getElementById('c'),x=c.getContext('2d');
+const ease=t=>t<0?0:t>1?1:1-Math.pow(1-t,3);
+const stars=[...Array(220)].map((_,i)=>[(i*977)%1080,(i*613)%1920,(i%3)+1]);
+window.draw=function(t){ // t seconds, 0..6
+ let g=x.createLinearGradient(0,0,0,1920);g.addColorStop(0,'#0B1026');g.addColorStop(1,'#0F2A1D');
+ x.fillStyle=g;x.fillRect(0,0,1080,1920);
+ stars.forEach(([sx,sy,r],i)=>{x.globalAlpha=.3+.5*Math.abs(Math.sin(t*2+i));x.fillStyle='#fff';x.beginPath();x.arc(sx,sy,r,0,7);x.fill()});x.globalAlpha=1;
+ const cx=540,cy=880;
+ // title
+ x.font='900 78px Inter, sans-serif';x.textAlign='center';x.fillStyle='#fff';
+ x.globalAlpha=ease(t/0.4);x.fillText('¿Y si la Tierra',540,300);x.fillText('no tuviera Luna?',540,390);x.globalAlpha=1;
+ // earth
+ const er=170*ease(t/0.6);
+ let eg=x.createRadialGradient(cx-60,cy-60,20,cx,cy,er+1);eg.addColorStop(0,'#6fc3ff');eg.addColorStop(.7,'#1c5fb8');eg.addColorStop(1,'#0a2a5c');
+ x.fillStyle=eg;x.beginPath();x.arc(cx,cy,er,0,7);x.fill();
+ // continents spinning, speed increases after moon vanishes
+ const spin= t<2.5? t*0.8 : 2.0+(t-2.5)*0.8+Math.pow(t-2.5,2)*1.2;
+ x.save();x.beginPath();x.arc(cx,cy,er,0,7);x.clip();x.fillStyle='#51CF66';
+ for(let k=0;k<4;k++){let px=cx+((spin*120+k*170)%680)-340;x.beginPath();x.ellipse(px,cy-40+k*30,60,90-k*12,0.4,0,7);x.fill()}
+ x.restore();
+ // orbit + moon fading out
+ const ma=t<2.5?1:Math.max(0,1-(t-2.5)/0.6);
+ x.globalAlpha=ma*0.4;x.strokeStyle='#fff';x.setLineDash([10,14]);x.lineWidth=3;x.beginPath();x.arc(cx,cy,330,0,7);x.stroke();x.setLineDash([]);
+ x.globalAlpha=ma;const a=t*1.2;const mx=cx+330*Math.cos(a),my=cy+330*Math.sin(a);
+ x.fillStyle='#ccc';x.beginPath();x.arc(mx,my,48*ease((t-0.4)/0.4)*(t<2.5?1:1+(t-2.5)*0.5),0,7);x.fill();x.globalAlpha=1;
+ if(t>2.5&&t<3.3){x.font='900 120px Inter';x.fillStyle='#FF6B6B';x.globalAlpha=1-(t-2.5)/0.8;x.fillText('✕',mx,my+40);x.globalAlpha=1}
+ // arrow + counter
+ if(t>3.2){const p=ease((t-3.2)/0.5);x.globalAlpha=p;x.fillStyle='#FFD43B';
+  x.beginPath();x.moveTo(540,1150+(1-p)*60);x.lineTo(500,1210+(1-p)*60);x.lineTo(580,1210+(1-p)*60);x.fill();
+  const h=Math.round(24-16*ease((t-3.4)/1.6));x.font='900 150px Inter';x.fillText(h+' h',540,1400);
+  x.font='700 54px Inter';x.fillStyle='#fff';x.fillText('duraría un día',540,1480);x.globalAlpha=1}
+ x.font='700 34px Inter';x.fillStyle='rgba(255,255,255,.8)';x.fillText('Mente Curiosa · demo',540,80);
+};
+</script></body></html>
