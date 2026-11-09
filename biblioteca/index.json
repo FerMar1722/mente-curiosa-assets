@@ -152,5 +152,141 @@
   "segundos": 4.0,
   "descripcion": "Un círculo que late con ondas, como un pulso o una señal viva. Corazón (sin temas médicos), radar, alerta.",
   "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/latido_pulso.mp4"
+ },
+ {
+  "nombre": "perro_habla",
+  "archivo": "biblioteca/perro_habla.mp4",
+  "segundos": 4.0,
+  "descripcion": "Perro de perfil al que le salen bocadillos de diálogo que se llenan de puntos. ¿Y si los perros hablaran?, comunicación animal.",
+  "tema_previsto": "9 nov perros",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/perro_habla.mp4"
+ },
+ {
+  "nombre": "perro_ondas",
+  "archivo": "biblioteca/perro_ondas.mp4",
+  "segundos": 4.0,
+  "descripcion": "Ondas de sonido que salen de un perro hacia una persona. Ladridos, oído de los animales, cómo se comunican.",
+  "tema_previsto": "9 nov perros",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/perro_ondas.mp4"
+ },
+ {
+  "nombre": "boli_corte",
+  "archivo": "biblioteca/boli_corte.mp4",
+  "segundos": 5.0,
+  "descripcion": "Corte de un bolígrafo: la tinta baja y entra aire por el agujerito para igualar la presión. Por qué los bolígrafos tienen agujeros.",
+  "tema_previsto": "10 nov bolígrafos",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/boli_corte.mp4"
+ },
+ {
+  "nombre": "boli_presion",
+  "archivo": "biblioteca/boli_presion.mp4",
+  "segundos": 4.0,
+  "descripcion": "Una flecha de aire entra por un agujero y empuja la tinta hacia abajo. Presión del aire, vacío, que algo funcione por un agujero.",
+  "tema_previsto": "10 nov bolígrafos",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/boli_presion.mp4"
+ },
+ {
+  "nombre": "tierra_rapida",
+  "archivo": "biblioteca/tierra_rapida.mp4",
+  "segundos": 5.0,
+  "descripcion": "La Tierra gira cada vez más rápido con el día y la noche pasando a toda velocidad. ¿Y si la Tierra girara más rápido?, días más cortos.",
+  "tema_previsto": "11 nov Tierra rápida",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/tierra_rapida.mp4"
+ },
+ {
+  "nombre": "tierra_achatada",
+  "archivo": "biblioteca/tierra_achatada.mp4",
+  "segundos": 4.0,
+  "descripcion": "La Tierra se ensancha por el ecuador y se aplasta por los polos al girar. Forma de la Tierra, fuerza centrífuga.",
+  "tema_previsto": "11 nov Tierra rápida",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/tierra_achatada.mp4"
+ },
+ {
+  "nombre": "huracan_espiral",
+  "archivo": "biblioteca/huracan_espiral.mp4",
+  "segundos": 4.0,
+  "descripcion": "Espiral de viento tipo huracán girando sobre el mar. Vientos extremos, tormentas, huracanes.",
+  "tema_previsto": "11 nov Tierra rápida",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/huracan_espiral.mp4"
+ },
+ {
+  "nombre": "estornudo_gotas",
+  "archivo": "biblioteca/estornudo_gotas.mp4",
+  "segundos": 4.0,
+  "descripcion": "Nube de gotitas saliendo disparada de izquierda a derecha a gran velocidad. Estornudo, spray, velocidad del aire.",
+  "tema_previsto": "12 nov estornudo",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/estornudo_gotas.mp4"
+ },
+ {
+  "nombre": "presion_globo",
+  "archivo": "biblioteca/presion_globo.mp4",
+  "segundos": 4.0,
+  "descripcion": "Un globo que se hincha temblando hasta reventar en partículas. Presión acumulada, contener algo, explotar.",
+  "tema_previsto": "12 nov estornudo",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/presion_globo.mp4"
+ },
+ {
+  "nombre": "internet_red",
+  "archivo": "biblioteca/internet_red.mp4",
+  "segundos": 5.0,
+  "descripcion": "Red mundial de nodos conectados con datos viajando; las conexiones se apagan una a una. ¿Y si se apagara internet?, apagón.",
+  "tema_previsto": "13 nov internet",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/internet_red.mp4"
+ },
+ {
+  "nombre": "wifi_desaparece",
+  "archivo": "biblioteca/wifi_desaparece.mp4",
+  "segundos": 4.0,
+  "descripcion": "Icono de wifi cuyas barras se apagan una a una y aparece un aspa roja. Sin conexión, internet caído.",
+  "tema_previsto": "13 nov internet",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/wifi_desaparece.mp4"
+ },
+ {
+  "nombre": "avion_vuela",
+  "archivo": "biblioteca/avion_vuela.mp4",
+  "segundos": 4.0,
+  "descripcion": "Un avión blanco cruzando el cielo entre nubes. Aviones, volar, viajes.",
+  "tema_previsto": "14 nov aviones blancos",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/avion_vuela.mp4"
+ },
+ {
+  "nombre": "avion_sol",
+  "archivo": "biblioteca/avion_sol.mp4",
+  "segundos": 5.0,
+  "descripcion": "Rayos de sol sobre dos aviones: el blanco los refleja y el oscuro se calienta en rojo. Por qué los aviones son blancos, color y calor.",
+  "tema_previsto": "14 nov aviones blancos",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/avion_sol.mp4"
+ },
+ {
+  "nombre": "bajar_profundidad",
+  "archivo": "biblioteca/bajar_profundidad.mp4",
+  "segundos": 4.0,
+  "descripcion": "Descenso bajo tierra a través de capas de roca hasta una cueva brillante. Bajo el suelo, profundidad, lo que hay bajo nuestros pies.",
+  "tema_previsto": "15 nov Naica",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/bajar_profundidad.mp4"
+ },
+ {
+  "nombre": "cristales_gigantes",
+  "archivo": "biblioteca/cristales_gigantes.mp4",
+  "segundos": 5.0,
+  "descripcion": "Cristales enormes y translúcidos que crecen en una cueva, con una persona diminuta para dar escala. Cueva de cristales, minerales gigantes.",
+  "tema_previsto": "15 nov Naica",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/cristales_gigantes.mp4"
+ },
+ {
+  "nombre": "meteoros_lluvia",
+  "archivo": "biblioteca/meteoros_lluvia.mp4",
+  "segundos": 5.0,
+  "descripcion": "Lluvia de estrellas fugaces cruzando un cielo nocturno desde un mismo punto. Leónidas, Perseidas, estrellas fugaces.",
+  "tema_previsto": "16-17 nov Leónidas",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/meteoros_lluvia.mp4"
+ },
+ {
+  "nombre": "cometa_rastro",
+  "archivo": "biblioteca/cometa_rastro.mp4",
+  "segundos": 5.0,
+  "descripcion": "La Tierra atraviesa el rastro de polvo de un cometa y aparecen destellos. Por qué hay lluvias de estrellas cada año.",
+  "tema_previsto": "16-17 nov Leónidas",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/cometa_rastro.mp4"
  }
 ]
