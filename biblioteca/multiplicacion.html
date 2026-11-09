@@ -1,0 +1,22 @@
+<!doctype html><html><body style="margin:0;background:#000"><canvas id="c" width="1080" height="1920"></canvas><script>
+const c=document.getElementById('c'),x=c.getContext('2d');const W=1080,H=1920;
+const Y='#FFD43B',G='#51CF66',R='#FF6B6B',B='#4DABF7',WH='#ffffff';
+const cl=v=>v<0?0:v>1?1:v;const ease=t=>1-Math.pow(1-cl(t),3);const inout=t=>{t=cl(t);return t<.5?4*t*t*t:1-Math.pow(-2*t+2,3)/2};
+const stars=[...Array(200)].map((_,i)=>[(i*977+13)%W,(i*613+7)%H,(i%3)*.8+.8]);
+function bg(t,noStars){let g=x.createLinearGradient(0,0,0,H);g.addColorStop(0,'#0B1026');g.addColorStop(1,'#0F2A1D');x.fillStyle=g;x.fillRect(0,0,W,H);
+ if(!noStars)stars.forEach(([sx,sy,r],i)=>{x.globalAlpha=.25+.45*Math.abs(Math.sin(t*1.5+i));x.fillStyle=WH;x.beginPath();x.arc(sx,sy,r,0,7);x.fill()});x.globalAlpha=1;}
+function circ(cx,cy,r,f){x.fillStyle=f;x.beginPath();x.arc(cx,cy,Math.max(0,r),0,7);x.fill();}
+function glow(cx,cy,r,col,a){let g=x.createRadialGradient(cx,cy,0,cx,cy,r);g.addColorStop(0,col);g.addColorStop(1,'rgba(0,0,0,0)');x.globalAlpha=a;x.fillStyle=g;x.beginPath();x.arc(cx,cy,r,0,7);x.fill();x.globalAlpha=1;}
+function earth(cx,cy,r,spin){let g=x.createRadialGradient(cx-r*.35,cy-r*.35,r*.1,cx,cy,r);g.addColorStop(0,'#6fc3ff');g.addColorStop(.7,'#1c5fb8');g.addColorStop(1,'#0a2a5c');
+ glow(cx,cy,r*1.35,'rgba(77,171,247,.5)',1);circ(cx,cy,r,g);x.save();x.beginPath();x.arc(cx,cy,r,0,7);x.clip();x.fillStyle=G;
+ for(let k=0;k<5;k++){let px=cx+(((spin*r*.9+k*r*.85)%(r*4.2))-r*2.1);x.beginPath();x.ellipse(px,cy-r*.3+k*r*.18,r*.32,r*.5-k*r*.05,.4,0,7);x.fill()}
+ let sh=x.createLinearGradient(cx-r,0,cx+r,0);sh.addColorStop(0,'rgba(0,0,0,0)');sh.addColorStop(1,'rgba(0,0,20,.45)');x.fillStyle=sh;x.fillRect(cx-r,cy-r,2*r,2*r);x.restore();}
+function person(cx,by,h,col){const s=h/10;x.fillStyle=col;circ(cx,by-h+s*1.3,s*1.3,col);x.beginPath();x.roundRect(cx-s*1.6,by-h+s*3,s*3.2,s*4.2,s*1.2);x.fill();
+ x.fillRect(cx-s*1.3,by-h+s*6.5,s*1.1,s*3.5);x.fillRect(cx+s*.2,by-h+s*6.5,s*1.1,s*3.5);}
+function arrow(x1,y1,x2,y2,col,w){x.strokeStyle=col;x.fillStyle=col;x.lineWidth=w;x.lineCap='round';x.beginPath();x.moveTo(x1,y1);x.lineTo(x2,y2);x.stroke();const a=Math.atan2(y2-y1,x2-x1),L=w*3;
+ x.beginPath();x.moveTo(x2+Math.cos(a)*L*.6,y2+Math.sin(a)*L*.6);x.lineTo(x2+Math.cos(a+2.5)*L,y2+Math.sin(a+2.5)*L);x.lineTo(x2+Math.cos(a-2.5)*L,y2+Math.sin(a-2.5)*L);x.fill();}
+
+window.draw=function(t){
+bg(t,true);const n=Math.floor(Math.pow(2,cl((t-.3)/3)*9));for(let i=0;i<n;i++){const a=i*2.39996,r=Math.sqrt(i)*19;circ(540+Math.cos(a)*r,820+Math.sin(a)*r,9,i%7==0?Y:G)}
+};
+</script></body></html>

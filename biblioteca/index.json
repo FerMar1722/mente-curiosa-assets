@@ -1,0 +1,156 @@
+[
+ {
+  "nombre": "tierra_girando",
+  "archivo": "biblioteca/tierra_girando.mp4",
+  "segundos": 4.0,
+  "descripcion": "La Tierra girando en el espacio con zoom lento. Gancho o cualquier tema del planeta.",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/tierra_girando.mp4"
+ },
+ {
+  "nombre": "orbita_luna",
+  "archivo": "biblioteca/orbita_luna.mp4",
+  "segundos": 4.0,
+  "descripcion": "La Luna orbitando la Tierra con su órbita marcada. Luna, mareas, gravedad.",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/orbita_luna.mp4"
+ },
+ {
+  "nombre": "sistema_solar",
+  "archivo": "biblioteca/sistema_solar.mp4",
+  "segundos": 5.0,
+  "descripcion": "El Sol con 4 planetas girando a distinta velocidad. Espacio, años, órbitas.",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/sistema_solar.mp4"
+ },
+ {
+  "nombre": "crece_gigante",
+  "archivo": "biblioteca/crece_gigante.mp4",
+  "segundos": 4.0,
+  "descripcion": "Un círculo pequeño crece hasta ocupar la pantalla. Algo que se hace enorme, escala, comparación de tamaño.",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/crece_gigante.mp4"
+ },
+ {
+  "nombre": "persona_encoge",
+  "archivo": "biblioteca/persona_encoge.mp4",
+  "segundos": 4.0,
+  "descripcion": "Una persona que encoge hasta ser diminuta junto a una persona normal. ¿Y si fueras pequeño?",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/persona_encoge.mp4"
+ },
+ {
+  "nombre": "persona_crece",
+  "archivo": "biblioteca/persona_crece.mp4",
+  "segundos": 4.0,
+  "descripcion": "Una persona que crece hasta ser gigante junto a una normal. ¿Y si fueras gigante?",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/persona_crece.mp4"
+ },
+ {
+  "nombre": "barras_suben",
+  "archivo": "biblioteca/barras_suben.mp4",
+  "segundos": 4.0,
+  "descripcion": "Tres barras que suben; la última se dispara en rojo. Comparar cantidades, récords, aumentos.",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/barras_suben.mp4"
+ },
+ {
+  "nombre": "reloj_rapido",
+  "archivo": "biblioteca/reloj_rapido.mp4",
+  "segundos": 4.0,
+  "descripcion": "Un reloj cuyas agujas se aceleran cada vez más. Tiempo, días más cortos, velocidad.",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/reloj_rapido.mp4"
+ },
+ {
+  "nombre": "termometro_calor",
+  "archivo": "biblioteca/termometro_calor.mp4",
+  "segundos": 4.0,
+  "descripcion": "Termómetro que sube hasta rojo con brillo de calor. Calor, temperatura extrema.",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/termometro_calor.mp4"
+ },
+ {
+  "nombre": "termometro_frio",
+  "archivo": "biblioteca/termometro_frio.mp4",
+  "segundos": 4.0,
+  "descripcion": "Termómetro que baja a azul con escarcha. Frío extremo, congelarse.",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/termometro_frio.mp4"
+ },
+ {
+  "nombre": "multiplicacion",
+  "archivo": "biblioteca/multiplicacion.mp4",
+  "segundos": 4.0,
+  "descripcion": "Un punto que se multiplica exponencialmente hasta llenar la pantalla. Población, virus, crecimiento.",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/multiplicacion.mp4"
+ },
+ {
+  "nombre": "desaparecen",
+  "archivo": "biblioteca/desaparecen.mp4",
+  "segundos": 4.0,
+  "descripcion": "Una cuadrícula de puntos que van desapareciendo uno a uno. Extinción, que algo desaparezca, perder.",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/desaparecen.mp4"
+ },
+ {
+  "nombre": "onda_expansiva",
+  "archivo": "biblioteca/onda_expansiva.mp4",
+  "segundos": 4.0,
+  "descripcion": "Anillos que se expanden desde un punto. Explosión, terremoto, sonido, impacto.",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/onda_expansiva.mp4"
+ },
+ {
+  "nombre": "explosion",
+  "archivo": "biblioteca/explosion.mp4",
+  "segundos": 4.0,
+  "descripcion": "Estallido de partículas desde el centro. Explosión, big bang, volcán, energía.",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/explosion.mp4"
+ },
+ {
+  "nombre": "caida_gravedad",
+  "archivo": "biblioteca/caida_gravedad.mp4",
+  "segundos": 4.0,
+  "descripcion": "Bolas que caen y rebotan en el suelo. Gravedad, peso, caer.",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/caida_gravedad.mp4"
+ },
+ {
+  "nombre": "linea_tiempo",
+  "archivo": "biblioteca/linea_tiempo.mp4",
+  "segundos": 4.0,
+  "descripcion": "Línea de tiempo que avanza con hitos que se encienden. Historia, evolución, cronología.",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/linea_tiempo.mp4"
+ },
+ {
+  "nombre": "atomo",
+  "archivo": "biblioteca/atomo.mp4",
+  "segundos": 4.0,
+  "descripcion": "Átomo con electrones girando. Física, química, lo diminuto, tecnología.",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/atomo.mp4"
+ },
+ {
+  "nombre": "nivel_mar_sube",
+  "archivo": "biblioteca/nivel_mar_sube.mp4",
+  "segundos": 4.0,
+  "descripcion": "El agua sube y cubre la línea de costa con olas. Mar, inundación, deshielo.",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/nivel_mar_sube.mp4"
+ },
+ {
+  "nombre": "rayo_velocidad",
+  "archivo": "biblioteca/rayo_velocidad.mp4",
+  "segundos": 4.0,
+  "descripcion": "Un rayo de luz que viaja a toda velocidad entre dos puntos, varias veces. Velocidad de la luz, internet, señal.",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/rayo_velocidad.mp4"
+ },
+ {
+  "nombre": "zoom_microscopico",
+  "archivo": "biblioteca/zoom_microscopico.mp4",
+  "segundos": 4.0,
+  "descripcion": "Zoom infinito hacia dentro, anillos que pasan. Entrar en lo diminuto: células, átomos, el interior de algo.",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/zoom_microscopico.mp4"
+ },
+ {
+  "nombre": "sol_llamaradas",
+  "archivo": "biblioteca/sol_llamaradas.mp4",
+  "segundos": 4.0,
+  "descripcion": "El Sol palpitando con llamaradas. Sol, calor, energía, luz.",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/sol_llamaradas.mp4"
+ },
+ {
+  "nombre": "latido_pulso",
+  "archivo": "biblioteca/latido_pulso.mp4",
+  "segundos": 4.0,
+  "descripcion": "Un círculo que late con ondas, como un pulso o una señal viva. Corazón (sin temas médicos), radar, alerta.",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/latido_pulso.mp4"
+ }
+]
