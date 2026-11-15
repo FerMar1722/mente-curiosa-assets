@@ -288,5 +288,77 @@
   "descripcion": "La Tierra atraviesa el rastro de polvo de un cometa y aparecen destellos. Por qué hay lluvias de estrellas cada año.",
   "tema_previsto": "16-17 nov Leónidas",
   "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/cometa_rastro.mp4"
+ },
+ {
+  "nombre": "hielo_se_hunde",
+  "archivo": "biblioteca/hielo_se_hunde.mp4",
+  "segundos": 5.0,
+  "descripcion": "Cubitos de hielo que en vez de flotar se hunden al fondo de un vaso de agua. ¿Y si el hielo no flotara?, densidad.",
+  "tema_previsto": "idea: ¿Y si el hielo no flotara?",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/hielo_se_hunde.mp4"
+ },
+ {
+  "nombre": "lago_se_congela",
+  "archivo": "biblioteca/lago_se_congela.mp4",
+  "segundos": 5.0,
+  "descripcion": "Un lago se congela desde arriba con una capa de hielo mientras los peces siguen nadando debajo. Por qué el hielo flota, invierno, lagos.",
+  "tema_previsto": "idea: ¿Y si el hielo no flotara?",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/lago_se_congela.mp4"
+ },
+ {
+  "nombre": "vista_aguila",
+  "archivo": "biblioteca/vista_aguila.mp4",
+  "segundos": 5.0,
+  "descripcion": "Una lente circular que hace zoom sobre un campo hasta descubrir un conejo diminuto a lo lejos. Vista de águila, ver muy lejos, visión.",
+  "tema_previsto": "idea: ¿Y si tuvieras la vista de un águila?",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/vista_aguila.mp4"
+ },
+ {
+  "nombre": "objetos_desaparecen",
+  "archivo": "biblioteca/objetos_desaparecen.mp4",
+  "segundos": 5.0,
+  "descripcion": "Objetos cotidianos (botella, bolsa, vaso, móvil, cepillo) que se desvanecen uno a uno. ¿Y si no existiera el plástico?, un mundo sin algo.",
+  "tema_previsto": "idea: ¿Y si no existiera el plástico?",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/objetos_desaparecen.mp4"
+ },
+ {
+  "nombre": "gato_ojos_noche",
+  "archivo": "biblioteca/gato_ojos_noche.mp4",
+  "segundos": 4.0,
+  "descripcion": "Dos ojos de gato que brillan en la oscuridad y sus pupilas se abren. Visión nocturna de los animales, ver en la oscuridad.",
+  "tema_previsto": "idea: ¿Y si los gatos vieran en la oscuridad total?",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/gato_ojos_noche.mp4"
+ },
+ {
+  "nombre": "perro_olfato",
+  "archivo": "biblioteca/perro_olfato.mp4",
+  "segundos": 5.0,
+  "descripcion": "Perro olfateando el suelo mientras rastros de olores de colores llegan serpenteando a su nariz. Olfato de los perros, oler cosas invisibles.",
+  "tema_previsto": "pedida 9 nov (perros)",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/perro_olfato.mp4"
+ },
+ {
+  "nombre": "silbato_ondas",
+  "archivo": "biblioteca/silbato_ondas.mp4",
+  "segundos": 5.0,
+  "descripcion": "Un silbato emite ondas: la persona no oye nada (gris) y el perro las capta y levanta las orejas (amarillo). Oído de los animales, ultrasonidos.",
+  "tema_previsto": "pedida 9 nov (perros)",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/silbato_ondas.mp4"
+ },
+ {
+  "nombre": "tostada_cae",
+  "archivo": "biblioteca/tostada_cae.mp4",
+  "segundos": 4.0,
+  "descripcion": "Una tostada resbala del borde de la mesa, da media vuelta en el aire y cae con la mantequilla hacia abajo. Ley de Murphy, caídas, física cotidiana.",
+  "tema_previsto": "pedida 12 nov (tostada)",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/tostada_cae.mp4"
+ },
+ {
+  "nombre": "luna_mareas",
+  "archivo": "biblioteca/luna_mareas.mp4",
+  "segundos": 5.0,
+  "descripcion": "El mar sube y baja siguiendo a la Luna; cuando la Luna se desvanece, el agua se queda casi quieta. Mareas, ¿y si no hubiera Luna?",
+  "tema_previsto": "pedida 13 nov (Luna)",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/luna_mareas.mp4"
  }
 ]

@@ -2,7 +2,7 @@
 
 Animaciones 1080×1920 sin texto (el rótulo se pone encima en compose, fuera de la franja de subtítulos y 0.62–0.76). Importar con `vidiq_video_upload(url)` (0 créditos). URL: `https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/<archivo>`.
 
-## Hechas a medida para los temas de la semana (usar PRIMERO en ese tema)
+## Hechas a medida (usar PRIMERO en ese tema)
 
 | Tema | Animación | s | Qué muestra |
 |---|---|---|---|
@@ -23,6 +23,15 @@ Animaciones 1080×1920 sin texto (el rótulo se pone encima en compose, fuera de
 | 15 nov Naica | `biblioteca/cristales_gigantes.mp4` | 5 | Cristales enormes y translúcidos que crecen en una cueva, con una persona diminuta para dar escala. Cueva de cristales, minerales gigantes. |
 | 16-17 nov Leónidas | `biblioteca/meteoros_lluvia.mp4` | 5 | Lluvia de estrellas fugaces cruzando un cielo nocturno desde un mismo punto. Leónidas, Perseidas, estrellas fugaces. |
 | 16-17 nov Leónidas | `biblioteca/cometa_rastro.mp4` | 5 | La Tierra atraviesa el rastro de polvo de un cometa y aparecen destellos. Por qué hay lluvias de estrellas cada año. |
+| idea: ¿Y si el hielo no flotara? | `biblioteca/hielo_se_hunde.mp4` | 5 | Cubitos de hielo que en vez de flotar se hunden al fondo de un vaso de agua. ¿Y si el hielo no flotara?, densidad. |
+| idea: ¿Y si el hielo no flotara? | `biblioteca/lago_se_congela.mp4` | 5 | Un lago se congela desde arriba con una capa de hielo mientras los peces siguen nadando debajo. Por qué el hielo flota, invierno, lagos. |
+| idea: ¿Y si tuvieras la vista de un águila? | `biblioteca/vista_aguila.mp4` | 5 | Una lente circular que hace zoom sobre un campo hasta descubrir un conejo diminuto a lo lejos. Vista de águila, ver muy lejos, visión. |
+| idea: ¿Y si no existiera el plástico? | `biblioteca/objetos_desaparecen.mp4` | 5 | Objetos cotidianos (botella, bolsa, vaso, móvil, cepillo) que se desvanecen uno a uno. ¿Y si no existiera el plástico?, un mundo sin algo. |
+| idea: ¿Y si los gatos vieran en la oscuridad total? | `biblioteca/gato_ojos_noche.mp4` | 4 | Dos ojos de gato que brillan en la oscuridad y sus pupilas se abren. Visión nocturna de los animales, ver en la oscuridad. |
+| pedida 9 nov (perros) | `biblioteca/perro_olfato.mp4` | 5 | Perro olfateando el suelo mientras rastros de olores de colores llegan serpenteando a su nariz. Olfato de los perros, oler cosas invisibles. |
+| pedida 9 nov (perros) | `biblioteca/silbato_ondas.mp4` | 5 | Un silbato emite ondas: la persona no oye nada (gris) y el perro las capta y levanta las orejas (amarillo). Oído de los animales, ultrasonidos. |
+| pedida 12 nov (tostada) | `biblioteca/tostada_cae.mp4` | 4 | Una tostada resbala del borde de la mesa, da media vuelta en el aire y cae con la mantequilla hacia abajo. Ley de Murphy, caídas, física cotidiana. |
+| pedida 13 nov (Luna) | `biblioteca/luna_mareas.mp4` | 5 | El mar sube y baja siguiendo a la Luna; cuando la Luna se desvanece, el agua se queda casi quieta. Mareas, ¿y si no hubiera Luna? |
 
 ## Genéricas (para cualquier tema)
 
@@ -51,4 +60,4 @@ Animaciones 1080×1920 sin texto (el rótulo se pone encima en compose, fuera de
 | `biblioteca/sol_llamaradas.mp4` | 4 | El Sol palpitando con llamaradas. Sol, calor, energía, luz. |
 | `biblioteca/latido_pulso.mp4` | 4 | Un círculo que late con ondas, como un pulso o una señal viva. Corazón (sin temas médicos), radar, alerta. |
 
-Las tareas programadas solo pueden LEER este repositorio. Las animaciones nuevas se crean desde la sesión de chat con Ferran (cada domingo 13:07), a partir de "Animaciones pedidas para la biblioteca" y de los "Próximos 7 temas" de la bitácora.
+Las tareas programadas solo pueden LEER este repositorio. Las animaciones nuevas se crean desde la sesión de chat con Ferran (cada domingo 13:07), a partir de "Animaciones pedidas para la biblioteca" y de los temas previstos en la bitácora.
