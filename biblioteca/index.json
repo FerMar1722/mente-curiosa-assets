@@ -360,5 +360,85 @@
   "descripcion": "El mar sube y baja siguiendo a la Luna; cuando la Luna se desvanece, el agua se queda casi quieta. Mareas, ¿y si no hubiera Luna?",
   "tema_previsto": "pedida 13 nov (Luna)",
   "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/luna_mareas.mp4"
+ },
+ {
+  "nombre": "objetos_flotan",
+  "archivo": "biblioteca/objetos_flotan.mp4",
+  "segundos": 5.0,
+  "descripcion": "Salón donde un cojín, una taza, un libro y una silla se despegan del suelo y flotan girando. Sin gravedad en casa, ingravidez.",
+  "tema_previsto": "pedida 21 nov (gravedad en casa)",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/objetos_flotan.mp4"
+ },
+ {
+  "nombre": "vela_esfera",
+  "archivo": "biblioteca/vela_esfera.mp4",
+  "segundos": 5.0,
+  "descripcion": "La llama de una vela pasa de lágrima amarilla alargada a una esfera azul redonda. Fuego sin gravedad, llamas en el espacio.",
+  "tema_previsto": "pedida 21 nov (gravedad en casa)",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/vela_esfera.mp4"
+ },
+ {
+  "nombre": "pupila_gato_humano",
+  "archivo": "biblioteca/pupila_gato_humano.mp4",
+  "segundos": 5.0,
+  "descripcion": "Dos ojos lado a lado: la pupila del gato pasa de rendija a círculo enorme y la humana apenas cambia. Visión nocturna, pupilas.",
+  "tema_previsto": "pedida 20 nov (ojos de gato)",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/pupila_gato_humano.mp4"
+ },
+ {
+  "nombre": "lago_congela_fondo",
+  "archivo": "biblioteca/lago_congela_fondo.mp4",
+  "segundos": 5.0,
+  "descripcion": "Corte de un lago que se congela desde el fondo hacia arriba hasta quedar macizo, con los peces atrapados. ¿Y si el hielo no flotara?",
+  "tema_previsto": "pedida 17 nov (hielo no flotara)",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/lago_congela_fondo.mp4"
+ },
+ {
+  "nombre": "cono_vision",
+  "archivo": "biblioteca/cono_vision.mp4",
+  "segundos": 5.0,
+  "descripcion": "Vista desde arriba: el campo de visión de una persona (unos 180°) frente al de un águila, mucho más amplio. Visión de los animales.",
+  "tema_previsto": "pedida 15 nov (vista de águila)",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/cono_vision.mp4"
+ },
+ {
+  "nombre": "montana_botellas",
+  "archivo": "biblioteca/montana_botellas.mp4",
+  "segundos": 5.0,
+  "descripcion": "Una montaña de botellas de plástico que crece junto a una persona hasta superarla de largo. Residuos, cantidades enormes, escala.",
+  "tema_previsto": "pedida 16 nov (plástico)",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/montana_botellas.mp4"
+ },
+ {
+  "nombre": "enjambre_desaparece",
+  "archivo": "biblioteca/enjambre_desaparece.mp4",
+  "segundos": 5.0,
+  "descripcion": "Un enjambre de insectos zumbando que se desvanece poco a poco hasta dejar el aire vacío. ¿Y si desaparecieran los mosquitos?, extinción de insectos.",
+  "tema_previsto": "22 nov mosquitos",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/enjambre_desaparece.mp4"
+ },
+ {
+  "nombre": "edificio_altura",
+  "archivo": "biblioteca/edificio_altura.mp4",
+  "segundos": 5.0,
+  "descripcion": "La cámara sube por un rascacielos gigantesco mientras un termómetro al lado baja de temperatura. Altura extrema, frío en las alturas, edificios.",
+  "tema_previsto": "24 nov edificio de 2 km",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/edificio_altura.mp4"
+ },
+ {
+  "nombre": "tiburon_escala",
+  "archivo": "biblioteca/tiburon_escala.mp4",
+  "segundos": 5.0,
+  "descripcion": "Un tiburón enorme que se acerca y crece hasta ocupar toda la pantalla junto a un buceador diminuto. Megalodón, animales gigantes, escala.",
+  "tema_previsto": "26 nov megalodón",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/tiburon_escala.mp4"
+ },
+ {
+  "nombre": "noche_polar",
+  "archivo": "biblioteca/noche_polar.mp4",
+  "segundos": 5.0,
+  "descripcion": "El Sol da vueltas bajo el horizonte sin llegar a salir mientras un reloj avanza y el cielo sigue de noche. Noche polar, días sin sol, invierno en el Ártico.",
+  "tema_previsto": "28 nov noche de seis meses",
+  "url": "https://raw.githubusercontent.com/FerMar1722/mente-curiosa-assets/main/biblioteca/noche_polar.mp4"
  }
 ]

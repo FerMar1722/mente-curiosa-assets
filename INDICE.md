@@ -32,6 +32,16 @@ Animaciones 1080×1920 sin texto (el rótulo se pone encima en compose, fuera de
 | pedida 9 nov (perros) | `biblioteca/silbato_ondas.mp4` | 5 | Un silbato emite ondas: la persona no oye nada (gris) y el perro las capta y levanta las orejas (amarillo). Oído de los animales, ultrasonidos. |
 | pedida 12 nov (tostada) | `biblioteca/tostada_cae.mp4` | 4 | Una tostada resbala del borde de la mesa, da media vuelta en el aire y cae con la mantequilla hacia abajo. Ley de Murphy, caídas, física cotidiana. |
 | pedida 13 nov (Luna) | `biblioteca/luna_mareas.mp4` | 5 | El mar sube y baja siguiendo a la Luna; cuando la Luna se desvanece, el agua se queda casi quieta. Mareas, ¿y si no hubiera Luna? |
+| pedida 21 nov (gravedad en casa) | `biblioteca/objetos_flotan.mp4` | 5 | Salón donde un cojín, una taza, un libro y una silla se despegan del suelo y flotan girando. Sin gravedad en casa, ingravidez. |
+| pedida 21 nov (gravedad en casa) | `biblioteca/vela_esfera.mp4` | 5 | La llama de una vela pasa de lágrima amarilla alargada a una esfera azul redonda. Fuego sin gravedad, llamas en el espacio. |
+| pedida 20 nov (ojos de gato) | `biblioteca/pupila_gato_humano.mp4` | 5 | Dos ojos lado a lado: la pupila del gato pasa de rendija a círculo enorme y la humana apenas cambia. Visión nocturna, pupilas. |
+| pedida 17 nov (hielo no flotara) | `biblioteca/lago_congela_fondo.mp4` | 5 | Corte de un lago que se congela desde el fondo hacia arriba hasta quedar macizo, con los peces atrapados. ¿Y si el hielo no flotara? |
+| pedida 15 nov (vista de águila) | `biblioteca/cono_vision.mp4` | 5 | Vista desde arriba: el campo de visión de una persona (unos 180°) frente al de un águila, mucho más amplio. Visión de los animales. |
+| pedida 16 nov (plástico) | `biblioteca/montana_botellas.mp4` | 5 | Una montaña de botellas de plástico que crece junto a una persona hasta superarla de largo. Residuos, cantidades enormes, escala. |
+| 22 nov mosquitos | `biblioteca/enjambre_desaparece.mp4` | 5 | Un enjambre de insectos zumbando que se desvanece poco a poco hasta dejar el aire vacío. ¿Y si desaparecieran los mosquitos?, extinción de insectos. |
+| 24 nov edificio de 2 km | `biblioteca/edificio_altura.mp4` | 5 | La cámara sube por un rascacielos gigantesco mientras un termómetro al lado baja de temperatura. Altura extrema, frío en las alturas, edificios. |
+| 26 nov megalodón | `biblioteca/tiburon_escala.mp4` | 5 | Un tiburón enorme que se acerca y crece hasta ocupar toda la pantalla junto a un buceador diminuto. Megalodón, animales gigantes, escala. |
+| 28 nov noche de seis meses | `biblioteca/noche_polar.mp4` | 5 | El Sol da vueltas bajo el horizonte sin llegar a salir mientras un reloj avanza y el cielo sigue de noche. Noche polar, días sin sol, invierno en el Ártico. |
 
 ## Genéricas (para cualquier tema)
 
